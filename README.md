@@ -14,6 +14,8 @@
   - [zls](https://github.com/zigtools/zls): [install](https://install.zigtools.org/)
   - [zig.vim](https://github.com/ziglang/zig.vim)
 
+---
+
 ## Start
 
 ### Install
@@ -87,3 +89,16 @@ in SpaceVim:
 ```bash
 :CocInstall coc-zls
 ```
+
+---
+
+## Code
+
+### Learn
+
+1. [Basics](src/learn/basics/README.md)
+1. [Standard Pattenrs](src/learn/standard_patterns/README.md)
+1. [Build System](src/learn/build_system/README.md)
+1. [Working with C](src/learn/working_with_c/README.md)
+1. [Async](src/learn/async/README.md)
+
