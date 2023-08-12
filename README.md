@@ -57,6 +57,16 @@ zig build run
 Hello, world!
 ```
 
+### zls
+
+- zigtools/[zls](https://github.com/zigtools/zls)
+
+```bash
+git clone https://github.com/zigtools/zls
+cd zls
+zig build -Doptimize=ReleaseSafe -Ddata_version=X.Y.Z
+```
+
 ### Editor
 
 #### VSCode
